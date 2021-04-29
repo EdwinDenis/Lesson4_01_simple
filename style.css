@@ -1,0 +1,49 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18 px;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    background-color: #A52A2A;
+    color: #fff;
+}
+
+.main_img{
+    display: block;
+    margin:0 auto;
+}
+
+#word{
+    font-style: italic;
+    color:blue;
+    font-weight: 600;
+}
+
+.img_block{
+    text-align: center;
+}
+
+.img_block img{
+    border: 3px dashed black;
+}
+
+.footer{
+    font-size: 20px;
+}
+
+.copyright{
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}
+
+
+
